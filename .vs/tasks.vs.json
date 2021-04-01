@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-dio-dotnet-poo-lab-2",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-DIO.Series",
+      "appliesTo": "DIO.Series.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
